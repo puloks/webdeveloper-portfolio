@@ -1,0 +1,41 @@
+/*Body Related Style*/
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/*Nav Related Style*/
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+    color:#474747;
+    font-weight: 400;
+}
+/*Logo Style*/
+.logo{
+color: #181818;
+font-size: 45px;
+font-weight: 800;
+}
+
+.logo > span{
+    color: #FD6E0A;
+}
+
+/*Button Style*/
+.button-primary{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 35px;
+}
