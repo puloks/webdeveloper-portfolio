@@ -132,3 +132,13 @@ main{
 .what-i-do-dec{
     padding: 30px 150px; 
 }
+
+
+/*Skill related style*/
+.skill-container{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
